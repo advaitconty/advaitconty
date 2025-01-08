@@ -15,7 +15,7 @@ P.S.: All the app icons and banners are designed by me, in Figma!
 
 - [Moods](https://github.com/contyadvait/moods) - A custom music player built in Python that runs on "Moods", which invovles an iOS app and a Raspberry Pi Zero 2 W repurposed to run as a portable music player
 
-- [Tetris: The Tetris Trap](https://github.com/contyadvait/tetris-the-tetris-trap) - My submission for Counterspell Globals - it's basically Tetris with a twist at the end!
+- [Tetris: The Last Tetris](https://github.com/contyadvait/tetris-the-last-tetris) - My submission for Counterspell Globals - it's basically Tetris with a twist at the end!
 
 ## More about me
 🌏 Website: [advaitconty.com](https://advaitconty.com)
