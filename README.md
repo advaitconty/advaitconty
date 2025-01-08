@@ -1,7 +1,7 @@
 # Hello there!
 I'm Advait, an active member of [Hack Club](https://github.com/hackclub), a coder, designer and physics lover
 
-P.S.: All the app icons and banners are designed by me, in Figma!
+_P.S.: All the app icons and banners are designed by me, in Figma!_
 
 ## Swift
 - [FitStreak](https://github.com/contyadvait/gymguru) - A fitness tracker based in SwiftUI and a project made part of the [Swift Accelerator Programme](https://swiftinsg.org)
