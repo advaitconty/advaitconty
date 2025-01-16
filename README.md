@@ -1,4 +1,4 @@
-# Hello there!
+# 👋🏽 Hello there!
 I'm Advait, an active member of [Hack Club](https://github.com/hackclub), a coder, designer and physics lover
 
 _P.S.: All the app icons and banners are designed by me, in Figma!_
